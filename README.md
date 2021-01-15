@@ -4,7 +4,9 @@ Atualmente sou Sysadmin Linux na TIVIT e atualmente focado em automação e Clou
 
 
 💻 About me
+
 Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina ferve, nada como o silêncio! 🤫
+
 ☕ Viciado em caféééééé! É! <- Quem pegou a referência, pegou!
 
 
