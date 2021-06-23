@@ -1,13 +1,18 @@
 Faaaala Pessoal, Allan Fernandes na área e esse aqui é o repositório do Arena
 
-Atualmente sou Sysadmin Linux na TIVIT e atualmente focado em automação e Cloud!
+Atualmente sou Analista DevOpsLinux na Ceptis e atualmente focado em [Jenkins](https://www.jenkins.io/), [Ansible](https://www.ansible.com/) e [Terraform](https://www.terraform.io/)!
 
-
-💻 About me
+# 💻 About me
 
 Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina ferve, nada como o silêncio! 🤫
 
 ☕ Viciado em caféééééé! É! <- Quem pegou a referência, pegou!
+
+Instagram: https://instagram.com/arenalinux
+
+
+
+
 
 
 
