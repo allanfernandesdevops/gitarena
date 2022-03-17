@@ -1,8 +1,6 @@
 Faaaala Pessoal, Allan Fernandes na área e esse aqui é o repositório do Arena
 
-Atualmente sou Analista DevOpsLinux na Ceptis e atualmente focado em [Jenkins](https://www.jenkins.io/), [Ansible](https://www.ansible.com/) e [Terraform](https://www.terraform.io/)!
-
-Estudando [AWS](https://aws.amazon.com/pt/).
+Atualmente sou Analista DevOps Linux na Tecnofit e atualmente focado em [AWS](https://aws.amazon.com/pt/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) e [BitBucket Pipelines](https://bitbucket.org/)!
 
 <div align="center">
   <a href="https://github.com/gitarena">
