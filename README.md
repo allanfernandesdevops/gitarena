@@ -1,6 +1,8 @@
 Faaaala Pessoal, Allan Fernandes na área e esse aqui é o repositório do Arena
 
-Atualmente sou Analista DevOps Linux na Tecnofit e atualmente focado em [AWS](https://aws.amazon.com/pt/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) e [BitBucket Pipelines](https://bitbucket.org/)!
+Atualmente sou Analista DevOps Linux na [Tecnofit](https://www.tecnofit.com.br/) e atualmente focado em [AWS](https://aws.amazon.com/pt/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) e [BitBucket Pipelines](https://bitbucket.org/)! Começando a aprender Python 🐍
+
+
 
 <div align="center">
   <a href="https://github.com/gitarena">
@@ -8,7 +10,6 @@ Atualmente sou Analista DevOps Linux na Tecnofit e atualmente focado em [AWS](ht
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitarena&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-  ##
 
 # 💻 About me
 
